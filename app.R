@@ -21,6 +21,6 @@ quantmod::chartSeries(dolF, theme = "black", name = "DOL$")
 
 #Exportar dados para csv
 
-write.csv(dolF, file = "C:/Users/jjuli/Documents/Projetos R/orientacao_r/dolF.csv" , sep = ";")
+write.csv(dolF, file = "C:/Users/jjuli/Documents/Projetos R/app_metatrader/dolF.csv" , sep = ";")
 
 
